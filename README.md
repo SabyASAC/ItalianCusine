@@ -27,7 +27,7 @@ p {
 
 <h5> CLick the following links to get redirected to the original websites </h5> 
 
-<a href=".................">CafeMezuanna</a>
+<a href=".................">CafeMezzuna</a>
 
 <a href="......................">Fabbrica</a>
 
